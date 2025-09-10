@@ -11,7 +11,7 @@ This is the React Native (Expo) mobile client for MyTube.
 
 ## Setup
 
-1. **Install dependencies:**
+1. **Clone the repository and install dependencies:**
 
    ```sh
    cd mobile
@@ -34,7 +34,8 @@ This is the React Native (Expo) mobile client for MyTube.
 3. **Start the Expo app:**
 
    ```sh
-   npm expo start
+   cd mobile
+   npm start
    ```
 
    - Scan the QR code with the Expo Go app on your phone.
